@@ -1,0 +1,44 @@
+
+input[type="button"]
+{
+
+background-color:silver;
+color: black;
+border-color:grey ;
+width:100px;
+height:40px;
+border-radius:5px ;
+font-size: 18px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+input[type="text"]
+{
+
+text-align: right;
+background-color:white;
+border: 2px solid black;
+width:98%;
+height:30px;
+font-size: 18px;
+}
+
+.table_design{
+    border: 5px solid grey;
+}
+
+.setting{
+    display: flex;
+        justify-content: center;
+    padding-top: 138px;
+    display: flex;
+}
+
+body{
+    margin:0;
+    padding: 0;
+    background-color: black;
+}
